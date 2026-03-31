@@ -11,7 +11,6 @@ Three prompt modes are supported:
 - **population** – the LLM estimates the average response of the target population (single value)
 - **population_dist** – the LLM estimates the full response distribution of the population as percent values per answer option
 
-The `population_dist` mode tends to work best: by asking the model to output an entire distribution rather than a single point estimate, it produces richer signal and is less sensitive to prompt variation. See the accompanying paper for evidence that `population_dist` consistently outperforms other modes across all evaluated metrics (Toussaint et al., 2026).
 
 ## Quick start
 
