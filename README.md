@@ -191,4 +191,4 @@ python run.py run --models "openai/gpt-4o,anthropic/claude-opus-4-5,google/gemin
 
 If you use this pipeline, please cite:
 
-> Toussaint, P., Dietze, S., & Marocko, S. (2026). LLM-Based Survey Simulation as a Pre-Study Tool. [preprint]
+> Toussaint, P., & Marocko, S. (2026). LLM-Based Survey Simulation as a Pre-Study Tool. [preprint]
